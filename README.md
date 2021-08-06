@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Solving problems and developing software solutions and quick hacks.
 - 🎓 &nbsp; Self taught developer.
-- 💼 &nbsp; Working as a Full-stack developer at ![Yassir Inc](https://yassir.com/).
+- 💼 &nbsp; Working as a Full-stack developer at [Yassir Inc](https://yassir.com/).
 - 🌱 &nbsp; Learning more about DevOps and Systems Design.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
