@@ -1,12 +1,10 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
 <h2> Hey there! I'm Abdellah.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Solving problems and developing software solutions and quick hacks.
 - 🎓 &nbsp; Self taught developer.
-- 💼 &nbsp; Working as a Full-stack developer at Yassir Inc.
+- 💼 &nbsp; Working as a Full-stack developer at ![Yassir Inc](https://yassir.com/).
 - 🌱 &nbsp; Learning more about DevOps and Systems Design.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -18,6 +16,8 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+  ![WordPress](https://img.shields.io/badge/-WorpPress-333333?style=flat&logo=wordpress)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
