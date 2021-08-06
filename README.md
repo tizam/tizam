@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Solving problems and developing software solutions and quick hacks.
+- 🤔 &nbsp; Solving business problems and developing software solutions.
 - 🎓 &nbsp; Self taught developer.
 - 💼 &nbsp; Working as a Full-stack developer at [Yassir Inc](https://yassir.com/).
 - 🌱 &nbsp; Learning more about DevOps and Systems Design.
