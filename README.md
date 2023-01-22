@@ -43,19 +43,21 @@
 
 <h3> ⚙️ &nbsp; GitHub Analytics</h3>
 
-<a href="https://github.com/tizam">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=tizam&theme=buefy&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tizam&theme=buefy&layout=compact" />
-</a>
+<p align="center">
+  <a href="https://github.com/tizam">
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=tizam&theme=buefy&show_icons=true&include_all_commits=true&count_private=true" />
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tizam&theme=buefy&layout=compact" />
+  </a>
+</p>
 
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://ladouiabdellah.netlify.com/"><img alt="Website" src="https://img.shields.io/badge/Website-ladouiabdellah.netlify.com/-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/abdellah-ladoui/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ladoui%20Abdellah%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:ladoui@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ladoui@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://ladouiabdellah.netlify.com/"><img alt="Website" src="https://img.shields.io/badge/Website-ladouiabdellah.netlify.com/-blue?style=flat-square&logo=google-chrome"></a>
+  <a href="https://www.linkedin.com/in/abdellah-ladoui/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ladoui%20Abdellah%20-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:ladoui@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ladoui@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
