@@ -43,11 +43,12 @@
 
 <h3> ⚙️ &nbsp; GitHub Analytics</h3>
 
-<a href="https://github.com/tizam">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=tizam&theme=buefy&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tizam&theme=buefy&layout=compact" />
-</a>
-
+<p align="center" dir="auto">
+  <a href="https://github.com/tizam">
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=tizam&theme=buefy&show_icons=true&include_all_commits=true&count_private=true" />
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tizam&theme=buefy&layout=compact" />
+  </a>
+</p>
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
