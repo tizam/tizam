@@ -4,8 +4,8 @@
 
 - 🤔 &nbsp; Solving business problems and developing software solutions.
 - 🎓 &nbsp; Self taught developer.
-- 💼 &nbsp; Working as a Full-stack developer at [Yassir Inc](https://yassir.com/).
-- 🌱 &nbsp; Learning more about DevOps and Systems Design.
+- 💼 &nbsp; Working as a JavaScript Engineer at [Matterway](https://matterway.io/).
+- 🌱 &nbsp; Learning more about Systems Design and automation.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
